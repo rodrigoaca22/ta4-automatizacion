@@ -1,9 +1,6 @@
-# Maven build
 target/
 !.mvn/wrapper/maven-wrapper.jar
 .mvn/wrapper/maven-wrapper.properties
-
-# Java/IDE
 *.class
 *.log
 *.iml
@@ -12,11 +9,5 @@ target/
 .classpath
 .settings/
 .DS_Store
-
-# VS Code
 .vscode/
-
-# SO / varios
 Thumbs.db
-
-# Archivos de ayuda (versiona solo si quieres)
